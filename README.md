@@ -1,5 +1,9 @@
 # basic-crud-java-jdbc
 
+## Ejecutar el docker container 
+```
+docker compose up --build
+```
 
 ## Para ejecutar dentro del contenedor 
 
